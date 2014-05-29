@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\NewCloud - Copy\Assets\Scripts\PlayMovie.cs">
+    <Files>
+      <File FileName="..\NewCloud - Copy\Assets\Vuforia Video Playback\Scripts\VideoPlaybackBehaviour.cs" Line="147" Column="40" />
+      <File FileName="..\NewCloud - Copy\Assets\Vuforia Video Playback\Scripts\VideoPlayerHelper.cs" Line="18" Column="2" />
+      <File FileName="..\NewCloud - Copy\Assets\CloudRecoEventHandler2.cs" Line="185" Column="4" />
+      <File FileName="..\NewCloud - Copy\Assets\Scripts\PlayMovie.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
